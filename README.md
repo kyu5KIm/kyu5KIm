@@ -40,6 +40,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![kyu5KIm's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyu5KIm&show_icons=true&theme=radical)    
+![kyu5KIm's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyu5KIm&show_icons=true&theme=github_dark) 
 
 <br>
