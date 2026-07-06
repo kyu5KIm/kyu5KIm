@@ -6,6 +6,13 @@
 
 <div align="center">
 
+## 👋 About Me
+
+I am a Computer Science student interested in **AI services**, **RAG**, and **Backend Development**.  
+I enjoy building practical applications that connect AI models, databases, and web services.
+
+<br>
+
 ## 🧑‍💻 Contact me 🧑‍💻
 
 <a href="https://kimgoo-9546.tistory.com/">
@@ -20,30 +27,23 @@
 
 <br><br>
 
-## 📧 Email 📧
-
-<strong>khuho0001@gmail.com</strong>
-
-<br><br>
-
 ## ✨ Tech Stack ✨
 
 ### Core
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
 
 <br>
 
-### AI
+### AI / Backend
 
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge" alt="Deep Learning">
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/STT-4B8BBE?style=for-the-badge" alt="STT">
 
 <br><br>
 
