@@ -21,6 +21,7 @@
 
 <div style="margin: 0 auto; text-align: center;" align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
@@ -40,6 +41,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![kyu5KIm's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyu5KIm&show_icons=true&theme=github_dark) 
+<img src="https://github-readme-stats.vercel.app/api?username=kyu5kim&show_icons=true&theme=radical" alt="GitHub Stats">
 
 <br>
