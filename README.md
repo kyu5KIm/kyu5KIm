@@ -24,8 +24,8 @@
 me = {
     "role": "Computer Science Student",
     "focus": ["AI Services", "RAG", "Backend"],
-    "ai": ["vLLM", "Qdrant", "WhisperX", "PaddleOCR", "Spring AI"],
-    "backend": ["Python", "FastAPI", "Django", "Java", "Spring Boot"],
+    "ai": ["vLLM", "Qdrant", "WhisperX", "PaddleOCR"],
+    "backend": ["Python", "FastAPI", "Django", "Java"],
     "frontend": ["React", "TypeScript"],
     "blog": "kimgoo-9546.tistory.com",
 }
@@ -51,10 +51,9 @@ me = {
 <img src="https://img.shields.io/badge/Sentence--Transformers-242938?style=for-the-badge" alt="Sentence-Transformers">
 <img src="https://img.shields.io/badge/WhisperX-242938?style=for-the-badge" alt="WhisperX">
 <img src="https://img.shields.io/badge/PaddleOCR-242938?style=for-the-badge" alt="PaddleOCR">
-<img src="https://img.shields.io/badge/Spring_AI-242938?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring AI">
 
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,mysql,postgres&theme=dark" alt="Python, FastAPI, Django, Java, Spring, MySQL, PostgreSQL">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,mysql,postgres&theme=dark" alt="Python, FastAPI, Django, Java, MySQL, PostgreSQL">
 
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind&theme=dark" alt="React, TypeScript, JavaScript, Tailwind CSS">
